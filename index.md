@@ -4,42 +4,32 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="jorgeguerra.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Aspiring entrepreneur and scientist hoping to build products that improve the world.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I'm currently a first-year PhD student in Harvard's Biophysics Program.
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+ My current research interests lie in protein structure, function, and design. I am interested in leveraging existing structural determination methods (e.g. X-ray crystallography, cryogenic electron microscopy, and NMR) and machine learning models (e.g. AlphaFold3, RFDiffusion, and ProteinMPNN) to accelerate drug discovery.
 
-## Publications
+## Work Experience
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+- **Farnung Lab Rotation Student at Harvard Medical School (November 2025 - February 2025).** I learned how to perform **in vitro** transcription assays, reconstitute protein complexes **in vitro**, prepare biological samples for single-particle cryo-EM, and process cryo-EM datasets using cryoSPARC. I also learned how to prepare and run native DNA/RNA gels, how to perform large-scale PCRs, and how to use an AKTA. Lastly, I learned how to build and analyze atomic models using generative AI software like ModelAngelo and CryFold, as well as structural analysis software like MolProbity. 
 
-## Typography
+- **Hekstra Lab Rotation Student at Harvard (August-October 2024).** I built a prototype of a 3D “crystal packer” for designing protein crystals *in silico*. This involved working with Python libraries such as gemmi, biopython, and SFCalculator. I also worked with RPXDock, a protein docking software developed by the David Baker's lab.
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+- **Gaudet Lab Undergraduate Researcher at Harvard (June 2021-May 2024).** I focused on resolving the structure of an NRAMP-like membrane protein that is expressed in *Eggerthella lenta* using X-ray crystallography. I gained experience expressing and purifying membrane proteins, setting up LCP crystallization trials and screens, conducting protein expression tests via a Western Blot, optimizing protein purification protocols, screening conditions to obtain high-quality protein crystals, and presenting my data in lab meetings and research conferences.
 
-Here is a table
+- **Discovery Biologics/Rosetta Intern at Merck (May-July 2023).** Used PyRosetta and machine learning models, such as RFdiffusion, ProteinMPNN, AlphaFold2 Multimer, and OmegaFold, to redesign a TGF-Beta type-I receptor. Wrote python scripts to extract and analyze data. Gave a seminar to present my work and presented a poster at RosettaCON. Collaborated with colleagues to establish a pipeline for designing protein binders.
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+## Awards
 
-Here is a horizontal rule
+1. Lawrence J. Henderson Prize—for the most meritorious senior thesis in the Molecular and Cellular Biology Department at Harvard
 
----
+2. Marci and Martin Karplus Family Foundation Biophysics Prize Fellowship—awarded anually to one first-year Harvard Biophysics PhD student.
 
-Here is a blockquote
+## Website
 
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+The template for this website can be found [here](https://github.com/ankitsultana/researcher).
