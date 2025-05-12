@@ -12,7 +12,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/"
  - name: "Resume"
    link: "guerra_jorge_cv.pdf"
  - name: "Contact"
