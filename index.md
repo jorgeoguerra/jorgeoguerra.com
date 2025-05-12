@@ -16,7 +16,7 @@ I'm currently a first-year PhD student in Harvard's Biophysics Program.
 
 ## Work Experience
 
-- **Farnung Lab Rotation Student at Harvard Medical School (November 2024 - February 2025).** I learned how to perform **in vitro** transcription assays, reconstitute protein complexes **in vitro**, prepare biological samples for single-particle cryo-EM, and process cryo-EM datasets using cryoSPARC. I also learned how to prepare and run native DNA/RNA gels, how to perform large-scale PCRs, and how to use an AKTA. Lastly, I learned how to build and analyze atomic models using generative AI software like ModelAngelo and CryFold, as well as structural analysis software like MolProbity. 
+- **Farnung Lab Rotation Student at Harvard Medical School (November 2024 - February 2025).** I learned how to perform *in vitro* transcription assays, reconstitute protein complexes *in vitro*, prepare biological samples for single-particle cryo-EM, and process cryo-EM datasets using cryoSPARC. I also learned how to prepare and run native DNA/RNA gels, how to perform large-scale PCRs, and how to use an AKTA. Lastly, I learned how to build and analyze atomic models using generative AI software like ModelAngelo and CryFold, as well as structural analysis software like MolProbity. 
 
 - **Hekstra Lab Rotation Student at Harvard (August-October 2024).** I built a prototype of a 3D “crystal packer” for designing protein crystals *in silico*. This involved working with Python libraries such as gemmi, biopython, and SFCalculator. I also worked with RPXDock, a protein docking software developed by David Baker's lab.
 
