@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="jorgeguerra-2.jpg">
+<img class="profile-picture" src="jorgeguerra-2.png">
 
 Aspiring entrepreneur and scientist hoping to build products that improve the world.
 

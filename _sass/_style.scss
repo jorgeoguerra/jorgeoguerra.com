@@ -1,4 +1,5 @@
 @import "vars";
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&family=Source+Serif+Pro:wght@400;600;700&display=swap');
 
 /*
  * Basic
@@ -11,7 +12,7 @@ html {
 }
 body {
     margin: 0;
-    font-family: "Inconsolata";
+    font-family: $body-font;
     height: 100%;
 }
 a {
@@ -28,6 +29,10 @@ hr {
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 
+h1, h2, h3, h4, h5, h6 {
+    font-family: $heading-font;
+}
+
 /*
  * Navbar
  */
@@ -36,6 +41,8 @@ hr {
     font-size: 30px;
     color: #272727;
     display: inline-block;
+    font-family: $heading-font;
+    font-weight: 600;
 }
 .navbar {
     padding: 50px 0 50px 0;
